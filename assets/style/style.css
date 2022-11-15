@@ -134,6 +134,7 @@ body{
     font-size: 15px;
     font-weight: 700;
     transition: all .3s ease;
+    color: #5F6F94;
 }
 .links-container li a:hover{
     text-decoration: none;
